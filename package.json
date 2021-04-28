@@ -1,0 +1,21 @@
+{
+  "name": "boa-sodium-base-ts",
+  "version": "0.1.0",
+  "description": "The TypeScript BOA Sodium library interface",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bosagora/boa-sodium-base-ts.git"
+  },
+  "keywords": [
+    "SDK",
+    "TypeScript"
+  ],
+  "author": "BOSAGORA Foundation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bosagora/boa-sodium-base-ts/issues"
+  },
+  "homepage": "https://bosagora.github.io/boa-sodium-base-ts/"
+}
